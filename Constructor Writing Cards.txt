@@ -1,0 +1,298 @@
+         /*for (int i=0;i<13;i++)
+        {
+
+        PlayingCard p=new PlayingCard();
+        if(i==0){
+             p.CardName="Two";
+             p.Value=i+2;
+             p.ImageName=DirectoryPath+"\\"+p.Value+"_of_spades.png";
+         }
+        else if(i==1){
+            p.CardName="Three";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_spades.png";
+        }
+        else if(i==2){
+            p.CardName="Four";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_spades.png";
+        }
+        else if(i==3){
+            p.CardName="Five";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_spades.png";
+        }
+        
+       else if(i==4){
+            p.CardName="Six";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_spades.png";
+        }
+        else if(i==5){
+            p.CardName="Seven";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_spades.png";
+        }
+        else if(i==6){
+            p.CardName="Eight";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_spades.png";
+        }
+        else if(i==7){
+            p.CardName="Nine";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_spades.png";
+        }
+        else if(i==8){
+            p.CardName="Ten";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_spades.png";
+        }
+        else if(i==9){
+            p.CardName="Ace";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+"ace_of_spades2.png";
+        }
+        else if(i==10){
+            p.CardName="Jack";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+"jack_of_spades2.png";
+        }
+        else if(i==11){
+            p.CardName="Queen";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+"queen_of_spades2.png";
+        }
+        else if(i==12){
+            p.CardName="King";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+"king_of_spades2.png";
+        }
+        p.Shape=PlayingCard.ShapeTypes.spades;
+        Cards.add(p);
+        }
+        for (int i=0;i<13;i++)
+        {
+
+        PlayingCard p=new PlayingCard();
+        if(i==0){
+             p.CardName="Two";
+             p.Value=i+2;
+             p.ImageName=DirectoryPath+"\\"+p.Value+"_of_diamonds.png";
+         }
+        else if(i==1){
+            p.CardName="Three";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_diamonds.png";
+        }
+        else if(i==2){
+            p.CardName="Four";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_diamonds.png";
+        }
+        else if(i==3){
+            p.CardName="Five";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_diamonds.png";
+        }
+        
+       else if(i==4){
+            p.CardName="Six";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_diamonds.png";
+        }
+        else if(i==5){
+            p.CardName="Seven";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_diamonds.png";
+        }
+        else if(i==6){
+            p.CardName="Eight";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_diamonds.png";
+        }
+        else if(i==7){
+            p.CardName="Nine";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_diamonds.png";
+        }
+        else if(i==8){
+            p.CardName="Ten";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_diamonds.png";
+        }
+        else if(i==9){
+            p.CardName="Ace";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+"ace_of_diamonds2.png";
+        }
+        else if(i==10){
+            p.CardName="Jack";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+"jack_of_diamonds2.png";
+        }
+        else if(i==11){
+            p.CardName="Queen";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+"queen_of_diamonds2.png";
+        }
+        else if(i==12){
+            p.CardName="King";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+"king_of_diamonds2.png";
+        }
+        p.Shape=PlayingCard.ShapeTypes.diamonds;
+        Cards.add(p);
+        }
+        for (int i=0;i<13;i++)
+        {
+
+        PlayingCard p=new PlayingCard();
+        if(i==0){
+             p.CardName="Two";
+             p.Value=i+2;
+             p.ImageName=DirectoryPath+"\\"+p.Value+"_of_clubs.png";
+         }
+        else if(i==1){
+            p.CardName="Three";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_clubs.png";
+        }
+        else if(i==2){
+            p.CardName="Four";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_clubs.png";
+        }
+        else if(i==3){
+            p.CardName="Five";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_clubs.png";
+        }
+        
+       else if(i==4){
+            p.CardName="Six";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_clubs.png";
+        }
+        else if(i==5){
+            p.CardName="Seven";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_clubs.png";
+        }
+        else if(i==6){
+            p.CardName="Eight";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_clubs.png";
+        }
+        else if(i==7){
+            p.CardName="Nine";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_clubs.png";
+        }
+        else if(i==8){
+            p.CardName="Ten";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_clubs.png";
+        }
+        else if(i==9){
+            p.CardName="Ace";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+"ace_of_clubs2.png";
+        }
+        else if(i==10){
+            p.CardName="Jack";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+"jack_of_clubs2.png";
+        }
+        else if(i==11){
+            p.CardName="Queen";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+"queen_of_clubs2.png";
+        }
+        else if(i==12){
+            p.CardName="King";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+"king_of_clubs2.png";
+        }
+        p.Shape=PlayingCard.ShapeTypes.clubs;
+        Cards.add(p);
+        }
+        for (int i=0;i<13;i++)
+        {
+
+        PlayingCard p=new PlayingCard();
+        if(i==0){
+             p.CardName="Two";
+             p.Value=i+2;
+             p.ImageName=DirectoryPath+"\\"+p.Value+"_of_hearts.png";
+         }
+        else if(i==1){
+            p.CardName="Three";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_hearts.png";
+        }
+        else if(i==2){
+            p.CardName="Four";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_hearts.png";
+        }
+        else if(i==3){
+            p.CardName="Five";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_hearts.png";
+        }
+        
+       else if(i==4){
+            p.CardName="Six";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_hearts.png";
+        }
+        else if(i==5){
+            p.CardName="Seven";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_hearts.png";
+        }
+        else if(i==6){
+            p.CardName="Eight";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_hearts.png";
+        }
+        else if(i==7){
+            p.CardName="Nine";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_hearts.png";
+        }
+        else if(i==8){
+            p.CardName="Ten";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+p.Value+"_of_hearts.png";
+        }
+        else if(i==9){
+            p.CardName="Ace";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+"ace_of_hearts2.png";
+        }
+        else if(i==10){
+            p.CardName="Jack";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+"jack_of_hearts2.png";
+        }
+        else if(i==11){
+            p.CardName="Queen";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+"queen_of_hearts2.png";
+        }
+        else if(i==12){
+            p.CardName="King";
+            p.Value=i+2;
+            p.ImageName=DirectoryPath+"\\"+"king_of_hearts2.png";
+        }
+        
+        p.Shape=PlayingCard.ShapeTypes.hearts;
+        
+        Cards.add(p);
+        }
+      
+            ObjectOutputStream CardsFile=new ObjectOutputStream(new FileOutputStream(DirectoryPath+"\\AllCards.bin"));
+            CardsFile.writeObject(Cards);
+            CardsFile.close();*/
